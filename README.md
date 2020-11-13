@@ -6,7 +6,7 @@ Este é um projeto de exemplo utilizando Java, Spring, Jbehave e Selenium Grid.
 * Maven
 * git
 
-##Resumo
+## Resumo
 O código demonstrado nesse projeto é um teste simples de funcionamento do Netshoes para demonstrar as funcionalidades do BDD em português utilizando Java, Spring e Jbehave.
 Como o projeto foi criado utilizando maven, acabei definindo algumas variáveis de sistema para orientar o programa a rodar os testes localmente ou no selenium grid*
 
