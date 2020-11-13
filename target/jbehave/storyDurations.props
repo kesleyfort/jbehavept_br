@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Nov 13 16:26:45 BRT 2020
+total=10000
+threadAverage=10000
+stories/user_navigation.story=10000
+threads=1

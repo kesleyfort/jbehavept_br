@@ -1,0 +1,12 @@
+br/com/calcard/pages/AbstractPage.class
+br/com/calcard/context/TestContext.class
+br/com/calcard/configuration/PageObject.class
+br/com/calcard/configuration/AbstractStoryConfiguration.class
+br/com/calcard/steps/AbstractSteps.class
+br/com/calcard/lifecycle/WebDriverLifeCycleSteps.class
+br/com/calcard/configuration/ProjectConfiguration.class
+br/com/calcard/steps/NetshoesHomePageSteps.class
+br/com/calcard/pages/NetshoesPage.class
+br/com/calcard/configuration/PageObjectBeanPostProcessor.class
+br/com/calcard/utils/Utils.class
+br/com/calcard/AllStories.class

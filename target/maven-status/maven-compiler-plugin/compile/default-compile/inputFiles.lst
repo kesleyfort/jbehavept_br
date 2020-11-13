@@ -1,0 +1,12 @@
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/configuration/PageObject.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/configuration/AbstractStoryConfiguration.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/pages/NetshoesPage.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/context/TestContext.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/steps/NetshoesHomePageSteps.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/lifecycle/WebDriverLifeCycleSteps.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/configuration/ProjectConfiguration.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/pages/AbstractPage.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/configuration/PageObjectBeanPostProcessor.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/utils/Utils.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/AllStories.java
+/home/kalves/Continous-Testing/ta-training/selenium/src/main/java/br/com/calcard/steps/AbstractSteps.java
